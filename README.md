@@ -1,6 +1,6 @@
 # 👨‍💻 Welcome to the GitHub Dungeon of a Sleep-Deprived CS Student
 
-> *"Still learning... but also kinda traumatized by pointers."*
+> *"Still learning... but also kinda traumatized by garbage collectors"*
 
 ---
 
@@ -9,7 +9,7 @@
 Hi. I'm just another UEF student in Finland trying to survive the programming multiverse. My hobbies include:
 
 - Debugging for 6 hours and fixing it with a semicolon.
-- Forgetting how `for` loops work in C++ but writing flawless Go code at 3am.
+- Forgetting how serialization work in java but writing flawless Go code at 3am.
 - Crying in binary.
 - Arguing with ChatGPT about whether it's a bug or a feature.
 - Sacrificing RAM to the code gods.
@@ -17,8 +17,9 @@ Hi. I'm just another UEF student in Finland trying to survive the programming mu
 ## 🧠 Currently Studying
 
 - Computer Science (a.k.a. "How to Talk to Computers Without Crying").
-- Coffee-based lifeform development.
 - How not to throw my laptop when `npm install` breaks for no reason.
+- Game Development during freetime
+- How to make better art and music, yup i tryna make music, tryna
 
 ## ⚔️ Languages I’ve Danced With in the Fires of Academia
 
@@ -33,17 +34,16 @@ Hi. I'm just another UEF student in Finland trying to survive the programming mu
 | Assembly | 😬 | 🧨 |
 | HTML/CSS | ✅ | 💅 |
 | Kotlin | ✅ | 😎 |
-| Ruby | ✅ | 💎 |
-| Babylonian Cuneiform | 🗿 | “it compiles, somehow” |
+| Ruby | ✅ | 💀 |
+| Ancient Babylonian | 🗿 | “it compiles, somehow” |
 
 ## 🧰 Frameworks & Tools I Can Kinda Use Without Googling Every Line
 
 - React (JSX PTSD still active)
 - Node.js (aka event loop roulette)
+- Vue.js (aka fucking "how to fucking do it with extra steps")
 - Express (minimalist server, maximalist debugging)
 - Git (used to fight merge conflicts like gladiator battles)
-- Bash (when I'm feeling *edgy*)
-- VS Code (because Vim scares me)
 
 ## 💀 Projects?
 
@@ -68,7 +68,7 @@ This GitHub account may contain:
 
 ## 🔮 Goals
 
-- Graduate from UEF without becoming a cryptid.
+- Graduate from UEF without becoming a fucking goblin.
 - Get into the tech industry and pretend I know what I’m doing.
 - Become the type of dev who gets paid to Google things faster than others.
 

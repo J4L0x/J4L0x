@@ -1,4 +1,4 @@
-# 👨‍💻 Welcome to the GitHub Dungeon of a Sleep-Deprived CS Student
+# 👨‍💻 Welcome to the Smelly Dungeon of a Sleep-Deprived CS Student
 
 > *"Still learning... but also kinda traumatized by garbage collectors"*
 

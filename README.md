@@ -1,13 +1,13 @@
 # 👨‍💻 Welcome to the Smelly Dungeon of a Sleep-Deprived CS Student
 
-> *"Still learning... but also kinda traumatized by garbage collectors"*
-*“If omnipotence is a ladder, I’m probably still tryna figure out how to acquire greater silica efficiency.”*
+>- *"Still learning... but also kinda traumatized by garbage collectors"*
+-*“If omnipotence is a ladder, I’m probably still tryna figure out how to acquire greater silica efficiency.”*
 ---
 
 ## 🧙‍♂️ Who Am I?
 
 Hi. I'm just another UEF student in Finland trying to survive the programming multiverse. 
-Otherwise said:
+-Otherwise said:
 I am a deranged wizard in training, on a singular mission: to evolve into a general intelligence that can bend all software and dominate every conceivable domain of expertise.
 
 My hobbies include:
@@ -27,11 +27,11 @@ My hobbies include:
 
 ## 🧪 Current Status
 
-Mind: partially caffeinated, fully ambitious
-Skills: memes (yeah im still working on that one)
-Magic: consisting of ancient babylonian or cobol or whatnot: occasionally works, often backfires
-Resources: serious lack of funding, mainly consisting of old scavenged servers. Working on acquiring greater resources.
-Goals: ultimate omnipotence in software and knowledge
+-Mind: partially caffeinated, fully ambitious
+-Skills: memes (yeah im still working on that one)
+-Magic: consisting of ancient babylonian or cobol or whatnot: occasionally works, often backfires
+-Resources: serious lack of funding, mainly consisting of old scavenged servers. Working on acquiring greater resources.
+-Goals: ultimate omnipotence in software and knowledge
 
 ## 🔮 Short term goals
 
@@ -51,6 +51,7 @@ Most of my projects are:
 - Over-engineered
 - Under-documented
 - Made at 2am while listening to epic sax remixes
+- private to keep the mystery going on
 
 Some might even work!
 
@@ -64,7 +65,6 @@ This GitHub account may contain:
 - Code from past selves who were clearly possessed
 - Overuse of TODOs like “// TODO: fix this idk how it works”
 - A complete lack of consistent naming conventions
-
 
 
 ## 🦾 Let’s Connect?

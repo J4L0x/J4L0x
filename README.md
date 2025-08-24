@@ -7,8 +7,9 @@
 ## 🧙‍♂️ Who Am I?
 
 Hi. I'm just another UEF student in Finland trying to survive the programming multiverse. 
--Otherwise said:
-I am a deranged wizard in training, on a singular mission: to evolve into a general intelligence that can bend all software and dominate every conceivable domain of expertise.
+
+#### Otherwise said:
+- I am a deranged wizard in training, on a singular mission: to evolve into a general intelligence that can bend all software and dominate every conceivable domain of expertise.
 
 My hobbies include:
 - Debugging for 6 hours and fixing it with a semicolon.

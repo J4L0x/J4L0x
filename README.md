@@ -1,49 +1,48 @@
 # 👨‍💻 Welcome to the Smelly Dungeon of a Sleep-Deprived CS Student
 
 > *"Still learning... but also kinda traumatized by garbage collectors"*
-
+*“If omnipotence is a ladder, I’m probably still tryna figure out how to acquire greater silica efficiency.”*
 ---
 
 ## 🧙‍♂️ Who Am I?
 
-Hi. I'm just another UEF student in Finland trying to survive the programming multiverse. My hobbies include:
+Hi. I'm just another UEF student in Finland trying to survive the programming multiverse. 
+Otherwise said:
+I am a deranged wizard in training, on a singular mission: to evolve into a general intelligence that can bend all software and dominate every conceivable domain of expertise.
 
+My hobbies include:
 - Debugging for 6 hours and fixing it with a semicolon.
 - Forgetting how serialization work in java but writing flawless Go code at 3am.
 - Crying in binary.
-- Arguing with ChatGPT about whether it's a bug or a feature.
-- Sacrificing RAM to the code gods.
+- Arguing with ChatGPT about whether morals are a bug or a feature
+- Sacrificing RAM to the AI gods
 
 ## 🧠 Currently Studying
 
 - Computer Science (a.k.a. "How to Talk to Computers Without Crying").
 - How not to throw my laptop when `npm install` breaks for no reason.
+- Steadily acquiring skills on all areas required to create secure & scalable clusters of general ai capable of interacting with tremendously clock sped up virtual machines or any kind 
 - Game Development during freetime
 - How to make better art and music, yup i tryna make music, tryna
 
-## ⚔️ Languages I’ve Danced With in the Fires of Academia
+## 🧪 Current Status
 
-| Language | Skill | Trauma Level |
-|----------|-------|---------------|
-| Go | ✅ | 😵‍💫 |
-| JavaScript | ✅ | 😡 |
-| C++ | ✅ | 💀💀💀 |
-| C | ✅ | 🧟 |
-| C# | ✅ | 😐 |
-| Python | ✅ | 🐍 (friendly snake) |
-| Assembly | 😬 | 🧨 |
-| HTML/CSS | ✅ | 💅 |
-| Kotlin | ✅ | 😎 |
-| Ruby | ✅ | 💀 |
-| Ancient Babylonian | 🗿 | “it compiles, somehow” |
+Mind: partially caffeinated, fully ambitious
+Skills: memes (yeah im still working on that one)
+Magic: consisting of ancient babylonian or cobol or whatnot: occasionally works, often backfires
+Resources: serious lack of funding, mainly consisting of old scavenged servers. Working on acquiring greater resources.
+Goals: ultimate omnipotence in software and knowledge
 
-## 🧰 Frameworks & Tools I Can Kinda Use Without Googling Every Line
+## 🔮 Short term goals
 
-- React (JSX PTSD still active)
-- Node.js (aka event loop roulette)
-- Vue.js (aka fucking "how to fucking do it with extra steps")
-- Express (minimalist server, maximalist debugging)
-- Git (used to fight merge conflicts like gladiator battles)
+- Graduate from UEF without becoming a fucking goblin.
+- Get into the tech industry as fast as I can and pretend I know what I’m doing. I need the funding asap.
+- get condident enough with web development, fullstack(freecodecamp + boot.dev + own projects)
+- learn electrical engineering as a side gig
+- learn AI by building small starter projects
+- mastering server management
+- learn everything there is to cybersecurity
+- learn overall info topics of variety of subjects so that i could attain more clearer understanding what my next moves shoudl be towards my ultimate goal.
 
 ## 💀 Projects?
 
@@ -66,11 +65,7 @@ This GitHub account may contain:
 - Overuse of TODOs like “// TODO: fix this idk how it works”
 - A complete lack of consistent naming conventions
 
-## 🔮 Goals
 
-- Graduate from UEF without becoming a fucking goblin.
-- Get into the tech industry and pretend I know what I’m doing.
-- Become the type of dev who gets paid to Google things faster than others.
 
 ## 🦾 Let’s Connect?
 

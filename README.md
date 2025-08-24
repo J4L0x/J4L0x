@@ -1,7 +1,7 @@
 # 👨‍💻 Welcome to the Smelly Dungeon of a Sleep-Deprived CS Student
 
 >- *"Still learning... but also kinda traumatized by garbage collectors"*
--*“If omnipotence is a ladder, I’m probably still tryna figure out how to acquire greater silica efficiency.”*
+- *“If omnipotence is a ladder, I’m probably still tryna figure out how to acquire greater silica efficiency.”*
 ---
 
 ## 🧙‍♂️ Who Am I?
@@ -27,11 +27,11 @@ My hobbies include:
 
 ## 🧪 Current Status
 
--Mind: partially caffeinated, fully ambitious
--Skills: memes (yeah im still working on that one)
--Magic: consisting of ancient babylonian or cobol or whatnot: occasionally works, often backfires
--Resources: serious lack of funding, mainly consisting of old scavenged servers. Working on acquiring greater resources.
--Goals: ultimate omnipotence in software and knowledge
+- Mind: partially caffeinated, fully ambitious
+- Skills: memes (yeah im still working on that one)
+- Magic: consisting of ancient babylonian or cobol or whatnot: occasionally works, often backfires
+- Resources: serious lack of funding, mainly consisting of old scavenged servers. Working on acquiring greater resources.
+- Goals: ultimate omnipotence in software and knowledge
 
 ## 🔮 Short term goals
 

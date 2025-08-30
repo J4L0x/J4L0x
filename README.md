@@ -1,15 +1,15 @@
 # 👨‍💻 Welcome to the Smelly Dungeon of a Sleep-Deprived CS Student
 
 >- *"Still learning... but also kinda traumatized by garbage collectors"*
-- *“If omnipotence is a ladder, I’m probably still tryna figure out how to acquire greater silica efficiency.”*
+>- *“If omnipotence is a ladder, I’m probably still tryna figure out how to acquire greater silica efficiency.”*
 ---
 
 ## 🧙‍♂️ Who Am I?
 
 Hi. I'm just another UEF student in Finland trying to survive the programming multiverse. 
 
-#### Otherwise said:
-- I am a deranged wizard in training, on a singular mission: to evolve into a general intelligence that can bend all software and dominate every conceivable domain of expertise.
+>- #### Otherwise said:
+>- I am a deranged wizard in training, on a singular mission: to evolve into a general intelligence that can bend all software and dominate every conceivable domain of expertise.
 
 My hobbies include:
 - Debugging for 6 hours and fixing it with a semicolon.
